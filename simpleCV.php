@@ -22,7 +22,7 @@ echo "    <div class=\"w3-third\">\n";
 echo "    \n";
 echo "      <div class=\"w3-white w3-text-grey w3-card-4\">\n";
 echo "        <div class=\"w3-display-container\">\n";
-echo "          <img src=\"pic1.jpg\" style=\"width:100%\" alt=\"Avatar\">\n";
+echo "          <img src=\"https://petapixel.com/assets/uploads/2019/04/Street_2016_02-105-800x640.jpg" style=\"width:100%\" alt=\"Avatar\">\n";
 echo "          <div class=\"w3-display-bottomleft w3-container w3-text-black\">\n";
 echo "            <h2>NGUYEN VAN MINH TRI</h2>\n";
 echo "          </div>\n";
