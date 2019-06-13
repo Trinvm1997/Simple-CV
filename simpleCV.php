@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <title>SIMPLE CV</title>
 <meta charset="UTF-8">
