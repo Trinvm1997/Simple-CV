@@ -1,142 +1,142 @@
-echo "<!DOCTYPE html>\n";
-echo "<html>\n";
-echo "<title>SIMPLE CV</title>\n";
-echo "<meta charset=\"UTF-8\">\n";
-echo "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n";
-echo "<link rel=\"stylesheet\" href=\"https://www.w3schools.com/w3css/4/w3.css\">\n";
-echo "<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>\n";
-echo "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\">\n";
-echo "<style>\n";
-echo "html,body,h1,h2,h3,h4,h5,h6 {font-family: \"Roboto\", sans-serif}\n";
-echo "</style>\n";
-echo "<body class=\"w3-light-grey\">\n";
-echo "\n";
-echo "<!-- Page Container -->\n";
-echo "<div class=\"w3-content w3-margin-top\" style=\"max-width:1400px;\">\n";
-echo "\n";
-echo "  <!-- The Grid -->\n";
-echo "  <div class=\"w3-row-padding\">\n";
-echo "  \n";
-echo "    <!-- Left Column -->\n";
-echo "    <div class=\"w3-third\">\n";
-echo "    \n";
-echo "      <div class=\"w3-white w3-text-grey w3-card-4\">\n";
-echo "        <div class=\"w3-display-container\">\n";
-echo "          <img src=\"https://petapixel.com/assets/uploads/2019/04/Street_2016_02-105-800x640.jpg" style=\"width:100%\" alt=\"Avatar\">\n";
-echo "          <div class=\"w3-display-bottomleft w3-container w3-text-black\">\n";
-echo "            <h2>NGUYEN VAN MINH TRI</h2>\n";
-echo "          </div>\n";
-echo "        </div>\n";
-echo "        <div class=\"w3-container\">\n";
-echo "          <p><i class=\"fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal\"></i>STUDENT</p>\n";
-echo "          <p><i class=\"fa fa-home fa-fw w3-margin-right w3-large w3-text-teal\"></i>DANANG,VIETNAM</p>\n";
-echo "          <p><i class=\"fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal\"></i>TRINVMGCD18384@FPT.EDU.VN</p>\n";
-echo "          <p><i class=\"fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal\"></i>0905774231</p>\n";
-echo "          <hr>\n";
-echo "\n";
-echo "          <p class=\"w3-large\"><b><i class=\"fa fa-asterisk fa-fw w3-margin-right w3-text-teal\"></i>Skills</b></p>\n";
-echo "          <p>C# language</p>\n";
-echo "          <div class=\"w3-light-grey w3-round-xlarge w3-small\">\n";
-echo "            <div class=\"w3-container w3-center w3-round-xlarge w3-teal\" style=\"width:10%\">10%</div>\n";
-echo "          </div>\n";
-echo "          <p>SQL language</p>\n";
-echo "          <div class=\"w3-light-grey w3-round-xlarge w3-small\">\n";
-echo "            <div class=\"w3-container w3-center w3-round-xlarge w3-teal\" style=\"width:20%\">\n";
-echo "              <div class=\"w3-center w3-text-white\">20%</div>\n";
-echo "            </div>\n";
-echo "          </div>\n";
-echo "          <p>HTML/CSS/PHP</p>\n";
-echo "          <div class=\"w3-light-grey w3-round-xlarge w3-small\">\n";
-echo "            <div class=\"w3-container w3-center w3-round-xlarge w3-teal\" style=\"width:30%\">30%</div>\n";
-echo "          </div>\n";
-echo "          <p>Java language</p>\n";
-echo "          <div class=\"w3-light-grey w3-round-xlarge w3-small\">\n";
-echo "            <div class=\"w3-container w3-center w3-round-xlarge w3-teal\" style=\"width:0%\">0%</div>\n";
-echo "          </div>\n";
-echo "          <br>\n";
-echo "\n";
-echo "          <p class=\"w3-large w3-text-theme\"><b><i class=\"fa fa-globe fa-fw w3-margin-right w3-text-teal\"></i>Languages</b></p>\n";
-echo "          <p>Vietnamese</p>\n";
-echo "          <div class=\"w3-light-grey w3-round-xlarge\">\n";
-echo "            <div class=\"w3-round-xlarge w3-teal\" style=\"height:24px;width:100%\"></div>\n";
-echo "          </div>\n";
-echo "          <p>English</p>\n";
-echo "          <div class=\"w3-light-grey w3-round-xlarge\">\n";
-echo "            <div class=\"w3-round-xlarge w3-teal\" style=\"height:24px;width:55%\"></div>\n";
-echo "          </div>\n";
-echo "          <p>French</p>\n";
-echo "          <div class=\"w3-light-grey w3-round-xlarge\">\n";
-echo "            <div class=\"w3-round-xlarge w3-teal\" style=\"height:24px;width:25%\"></div>\n";
-echo "          </div>\n";
-echo "          <br>\n";
-echo "        </div>\n";
-echo "      </div><br>\n";
-echo "\n";
-echo "    <!-- End Left Column -->\n";
-echo "    </div>\n";
-echo "\n";
-echo "    <!-- Right Column -->\n";
-echo "    <div class=\"w3-twothird\">\n";
-echo "      <div class=\"w3-container w3-card w3-white\">\n";
-echo "        <h2 class=\"w3-text-grey w3-padding-16\"><i class=\"fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal\"></i>Education</h2>\n";
-echo "        <div class=\"w3-container\">\n";
-echo "          <h5 class=\"w3-opacity\"><b>University of Greenwich</b></h5>\n";
-echo "          <h6 class=\"w3-text-teal\"><i class=\"fa fa-calendar fa-fw w3-margin-right\"></i>2017-2021</h6>\n";
-echo "          <p>Major: Information Technology</p>\n";
-echo "          <hr>\n";
-echo "        </div>\n";
-echo "        <div class=\"w3-container\">\n";
-echo "          <h5 class=\"w3-opacity\"><b>Phan Chau Trinh high school</b></h5>\n";
-echo "          <h6 class=\"w3-text-teal\"><i class=\"fa fa-calendar fa-fw w3-margin-right\"></i>2013 - 2015</h6>\n";
-echo "          <p>Excellent Student</p>\n";
-echo "          <hr>\n";
-echo "        </div>\n";
-echo "        <div class=\"w3-container\">\n";
-echo "          <h5 class=\"w3-opacity\"><b>Nguyen Khuyen secondary school</b></h5>\n";
-echo "          <h6 class=\"w3-text-teal\"><i class=\"fa fa-calendar fa-fw w3-margin-right\"></i>2009 - 2012</h6>\n";
-echo "          <p>Excellent Student</p><br>\n";
-echo "        </div>\n";
-echo "      </div>\n";
-echo "\n";
-echo "      <div class=\"w3-container w3-card w3-white\">\n";
-echo "        <h2 class=\"w3-text-grey w3-padding-16\"><i class=\"fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal\"></i>Hobby</h2>\n";
-echo "        <div class=\"w3-container\">\n";
-echo "          <h5 class=\"w3-opacity\"><b>Playing with cat</b></h5>\n";
-echo "          <h6 class=\"w3-text-teal\"><i class=\"fa fa-calendar fa-fw w3-margin-right\"></i>2018-</h6>\n";
-echo "          <p></p>\n";
-echo "          <hr>\n";
-echo "        </div>\n";
-echo "        <div class=\"w3-container\">\n";
-echo "          <h5 class=\"w3-opacity\"><b>Playing table tennis</b></h5>\n";
-echo "          <h6 class=\"w3-text-teal\"><i class=\"fa fa-calendar fa-fw w3-margin-right\"></i>2006 - 2010</h6>\n";
-echo "          <p></p>\n";
-echo "          <hr>\n";
-echo "        </div>\n";
-echo "        <div class=\"w3-container\">\n";
-echo "          <h5 class=\"w3-opacity\"><b>Playing games</b></h5>\n";
-echo "          <h6 class=\"w3-text-teal\"><i class=\"fa fa-calendar fa-fw w3-margin-right\"></i>FOREVER</h6>\n";
-echo "          <p></p><br>\n";
-echo "        </div>\n";
-echo "      </div>\n";
-echo "    <!-- End Right Column -->\n";
-echo "    </div>\n";
-echo "    \n";
-echo "  <!-- End Grid -->\n";
-echo "  </div>\n";
-echo "  \n";
-echo "  <!-- End Page Container -->\n";
-echo "</div>\n";
-echo "\n";
-echo "<footer class=\"w3-container w3-teal w3-center w3-margin-top\">\n";
-echo "  <p>Find me on social media.</p>\n";
-echo "  <i class=\"fa fa-facebook-official w3-hover-opacity\"></i>\n";
-echo "  <i class=\"fa fa-instagram w3-hover-opacity\"></i>\n";
-echo "  <i class=\"fa fa-snapchat w3-hover-opacity\"></i>\n";
-echo "  <i class=\"fa fa-pinterest-p w3-hover-opacity\"></i>\n";
-echo "  <i class=\"fa fa-twitter w3-hover-opacity\"></i>\n";
-echo "  <i class=\"fa fa-linkedin w3-hover-opacity\"></i>\n";
-echo "  <p>Designed by <a href=\"https://www.facebook.com/profile.php?id=100005135791217\" target=\"_blank\">Nguyen Van Minh Tri</a></p>\n";
-echo "</footer>\n";
-echo "\n";
-echo "</body>\n";
-echo "</html>\n";
+<!DOCTYPE html>
+<html>
+<title>SIMPLE CV</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>
+<body class="w3-light-grey">
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-display-container">
+          <img src="pic1.jpg" style="width:100%" alt="Avatar">
+          <div class="w3-display-bottomleft w3-container w3-text-black">
+            <h2>NGUYEN VAN MINH TRI</h2>
+          </div>
+        </div>
+        <div class="w3-container">
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>STUDENT</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>DANANG,VIETNAM</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>TRINVMGCD18384@FPT.EDU.VN</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>0905774231</p>
+          <hr>
+
+          <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
+          <p>C# language</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:10%">10%</div>
+          </div>
+          <p>SQL language</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:20%">
+              <div class="w3-center w3-text-white">20%</div>
+            </div>
+          </div>
+          <p>HTML/CSS/PHP</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:30%">30%</div>
+          </div>
+          <p>Java language</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:0%">0%</div>
+          </div>
+          <br>
+
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
+          <p>Vietnamese</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
+          </div>
+          <p>English</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:55%"></div>
+          </div>
+          <p>French</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:25%"></div>
+          </div>
+          <br>
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+      <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>University of Greenwich</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2017-2021</h6>
+          <p>Major: Information Technology</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Phan Chau Trinh high school</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2013 - 2015</h6>
+          <p>Excellent Student</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Nguyen Khuyen secondary school</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2009 - 2012</h6>
+          <p>Excellent Student</p><br>
+        </div>
+      </div>
+
+      <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Hobby</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Playing with cat</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2018-</h6>
+          <p></p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Playing table tennis</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2006 - 2010</h6>
+          <p></p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Playing games</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>FOREVER</h6>
+          <p></p><br>
+        </div>
+      </div>
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
+</div>
+
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+  <p>Find me on social media.</p>
+  <i class="fa fa-facebook-official w3-hover-opacity"></i>
+  <i class="fa fa-instagram w3-hover-opacity"></i>
+  <i class="fa fa-snapchat w3-hover-opacity"></i>
+  <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+  <i class="fa fa-twitter w3-hover-opacity"></i>
+  <i class="fa fa-linkedin w3-hover-opacity"></i>
+  <p>Designed by <a href="https://www.facebook.com/profile.php?id=100005135791217" target="_blank">Nguyen Van Minh Tri</a></p>
+</footer>
+
+</body>
+</html>
